@@ -1,0 +1,4 @@
+import re
+
+archivo = open ("","r")
+contenido = archivo.read()
